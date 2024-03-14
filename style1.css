@@ -1,0 +1,33 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    width: 50px;
+    font-size: 30px;
+    padding: 5px;
+    margin: 0 ppx;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    height: 17px;
+    width: 198px;
+    font-size: 19px;
+    margin: 0px;
+    padding: 6px 5px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.b1:hover{
+    background-color: rgb(255, 3, 3);
+
+}
+.g:hover:hover{
+    background-color: rgb(90, 255, 1);
+
+}
